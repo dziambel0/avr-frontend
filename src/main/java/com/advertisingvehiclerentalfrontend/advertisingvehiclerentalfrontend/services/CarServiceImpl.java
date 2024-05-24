@@ -11,7 +11,7 @@ import java.util.List;
 @Service
 public class CarServiceImpl implements CarService {
 
-    private final String BASE_URL = "http://localhost:8080/api/cars"; // Adjust URL according to your backend API
+    private final String BASE_URL = "http://localhost:8080/api/cars";
 
     @Autowired
     private RestTemplate restTemplate;
