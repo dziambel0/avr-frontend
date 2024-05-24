@@ -1,6 +1,5 @@
 package com.advertisingvehiclerentalfrontend.advertisingvehiclerentalfrontend.views;
 
-import com.advertisingvehiclerentalfrontend.advertisingvehiclerentalfrontend.model.Car;
 import com.advertisingvehiclerentalfrontend.advertisingvehiclerentalfrontend.model.Company;
 import com.advertisingvehiclerentalfrontend.advertisingvehiclerentalfrontend.services.CompanyService;
 import com.vaadin.flow.component.grid.Grid;
